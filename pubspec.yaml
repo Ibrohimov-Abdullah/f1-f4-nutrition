@@ -1,0 +1,32 @@
+name: nutrution_app
+description: "A new flutter project with F1 va F4."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  # logo maker
+  flutter_launcher_icons: ^0.14.4
+  # to make app responsive
+  flutter_screenutil: ^5.9.3
+  # to make app smooth (statemanagment)
+  get: ^4.7.2
+  # backend - firebase
+  firebase_core: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
