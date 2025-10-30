@@ -4,7 +4,7 @@
 // start - loyihani ishga churish uchun void main birinchi ishlovchi narsalar uchun
 
 
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:nutrution_app/src/core/style/app_colors.dart';
