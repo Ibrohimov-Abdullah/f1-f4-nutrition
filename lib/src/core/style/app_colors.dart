@@ -23,10 +23,14 @@ final class AppColors {
   static const Color cFFAD30 = Color(0xffFFAD30);
   static const Color cFFE1B3 = Color(0xffFFE1B3);
 
-  static const Color cFD3654 = Color(0xffFD3654);
-  static const Color cFFE1E7 = Color(0xffFFE1E7);
+  static const Color qizil = Color(0xffFD3654);
+  static const Color ochpushti = Color(0xffFFE1E7);
 
 
 
-  static const Color c31B057 = Color(0xff31B057);
+  static const Color yashil = Color(0xff31B057);
+
+
+  static const Color timqora = Color(0xff000000);
+static const Color ochseri = Color(0xffA9A9A9);
 }
