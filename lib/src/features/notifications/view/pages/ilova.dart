@@ -40,35 +40,35 @@ class _ReviewsPageState extends State<ReviewsPage> {
 
   final List<CommentModel> _comments = [
     CommentModel(
-        avatar: 'assets/rasm.png',
+        avatar: 'assets/comment_images/rasm.png',
         name: 'Bella Throne',
         date: 'June 12, 2020 - 19:35',
         comment: 'Lorem Ipsum tempor incididunt ut labore et dolore,inise voluptate velit esse cillum',
         likes: 9,
         dislikes: 2),
     CommentModel(
-        avatar: 'assets/rasm1.png',
+        avatar: 'assets/comment_images/rasm1.png',
         name: 'Christopher Oshana',
         date: 'June 12, 2020 - 19:35',
         comment: 'Lorem Ipsum tempor incididunt ut labore et dolore,inise voluptate velit esse cillum',
         likes: 7,
         dislikes: 1),
     CommentModel(
-        avatar: 'assets/rasm2.png',
+        avatar: 'assets/comment_images/rasm2.png',
         name: 'Kyle Austin',
         date: 'June 12, 2020 - 19:35',
         comment: 'Lorem Ipsum tempor incididunt ut labore et dolore,inise voluptate velit esse cillum',
         likes: 7,
         dislikes: 1),
     CommentModel(
-        avatar: 'assets/rasm3.png',
+        avatar: 'assets/comment_images/rasm3.png',
         name: 'Jeniffer Wilson',
         date: 'June 12, 2020 - 19:35',
         comment: 'Lorem Ipsum tempor incididunt ut labore et dolore,inise voluptate velit esse cillum',
         likes: 7,
         dislikes: 1),
     CommentModel(
-        avatar: 'assets/rasm4.png',
+        avatar: 'assets/comment_images/rasm4.png',
         name: 'Kate Johnson',
         date: 'June 12, 2020 - 19:35',
         comment: 'Lorem Ipsum tempor incididunt ut labore et dolore,inise voluptate velit esse cillum',

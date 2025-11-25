@@ -35,3 +35,8 @@ flutter:
 
   assets:
    - assets/
+   - assets/comment_images/rasm.png
+   - assets/comment_images/rasm1.png
+   - assets/comment_images/rasm2.png
+   - assets/comment_images/rasm3.png
+   - assets/comment_images/rasm4.png
